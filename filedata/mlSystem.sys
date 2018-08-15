@@ -12,13 +12,13 @@ DataBase=.\数据库
 Template=.\模板文件
 UserBak=
 Market=.\用户文件
-Downfile=.\下载文件
+Downfile=..\下载文件
 Compnent=
 
 
 ;2.网络
 [Link]
-MLSoft=budgetupdate.gczjxx.cn
+MLSoft=upgrade.yongdasoft.com
 Port=80
 UserName=
 Password=
@@ -35,12 +35,8 @@ hasUpgrade=1
 
 ;历史文件
 [Recentfile]
-Count=5
-0=D:\code\delphi\budget3\信息通信建设工程预算定额软件(2016)\模板文件\2016通信管道工程.mlg
-1=D:\code\delphi\budget3\信息通信建设工程预算定额软件(2016)\模板文件\2016通信线路工程.mlg
-2=D:\code\delphi\budget3\信息通信建设工程预算定额软件(2016)\模板文件\2016无线通信设备安装工程.mlg
-3=D:\code\delphi\budget3\信息通信建设工程预算定额软件(2016)\模板文件\2016通信电源设备安装工程.mlg
-4=D:\code\delphi\budget3\信息通信建设工程预算定额软件(2016)\模板文件\2016有线通信设备安装工程..mlg
+Count=0
+
 
 
 [dbiFile]

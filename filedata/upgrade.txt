@@ -37,8 +37,8 @@
 0;*;通信定额软件升级;;;;; 
 0;1-1;klys.exe;filedata\KLYS.exe;%App_Path%\klys.exe;执行文件;1;0
 0;1-2;klys.chm;filedata\klys.chm;%App_Path%\klys.chm;帮助文件;1;4
-0;1-3;ts.dbi;filedata\ts.dbi;%App_Path%\ts.dbi;帮助文件;1;4
-0;1-4;menu.ini;filedata\ts.dbi;%App_Path%\menu.ini;1;4
+0;1-3;ts.dbi;filedata\ts.dbi;%App_Path%\ts.dbi;;1;4
+0;1-4;menu.ini;filedata\menu.ini;%App_Path%\menu.ini;;1;4
 
 0;2-1;2016通信电源设备安装工程.mlg;filedata\模板文件\Ⅰ.2016定额\2016通信电源设备安装工程.mlg;%Template_Path%\Ⅰ.2016定额\2016通信电源设备安装工程.mlg;;1;2
 0;2-2;2016通信管道工程.mlg;filedata\模板文件\Ⅰ.2016定额\2016通信管道工程.mlg;%Template_Path%\Ⅰ.2016定额\2016通信管道工程.mlg;;1;2
