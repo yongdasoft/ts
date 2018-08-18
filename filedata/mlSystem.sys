@@ -12,7 +12,7 @@ DataBase=.\数据库
 Template=.\模板文件
 UserBak=
 Market=.\用户文件
-Downfile=.\下载文件
+Downfile=..\下载文件
 Compnent=
 
 
